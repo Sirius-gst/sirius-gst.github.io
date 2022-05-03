@@ -15,3 +15,5 @@
 
 * <iframe src="//player.bilibili.com/player.html?aid=243252625&bvid=BV1re411W7MQ&cid=196169858&page=19" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 * <iframe src="//player.bilibili.com/player.html?aid=243252625&bvid=BV1re411W7MQ&cid=196169533&page=18" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+## 搞笑
+* <iframe src="//player.bilibili.com/player.html?aid=840821195&bvid=BV1m54y1D7ZF&cid=193866167&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
