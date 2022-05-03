@@ -4,7 +4,7 @@
 
 ## 常用
 
-* [baidu](baidu.com)
+* [站长推特](https://twitter.com/va9SIXdxnWT3pxL?s=09)
 ## ACG
 
 * [B站](http://bilibili.com)
