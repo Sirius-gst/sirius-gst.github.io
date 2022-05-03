@@ -4,7 +4,7 @@
 
 ## 常用
 
-* [草](Sirius-gst.github.io)
+* [baidu](baidu.com)
 ## ACG
 
 * [B站](http://bilibili.com)
